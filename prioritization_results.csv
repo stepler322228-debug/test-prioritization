@@ -1,0 +1,26 @@
+project,hill_climbing_apfd,time_aware_apfd,history_based_apfd
+ytdl-buggy-1,0.9977,0.9977,0.9977
+fastapi-buggy-1,0.0,0.0,0.0
+ytdl-buggy-1,0.9977,0.9977,0.9977
+ytdl-buggy-1,0.9977,0.9977,0.9072
+ytdl-buggy-1,0.9977,0.9977,0.9977
+ytdl-buggy-1,0.9977,0.9977,0.9977
+tqdm-buggy-1,0.0,0.0,0.0
+thefuck-buggy-1,0.0,0.0,0.0
+thefuck-buggy-1,0.0,0.0,0.0
+ytdl-buggy-1,0.9977,0.9977,0.9977
+thefuck-buggy-1,0.0,0.0,0.0
+thefuck-buggy-1,0.0,0.0,0.0
+sanic-buggy-1,0.0,0.0,0.0
+ytdl-buggy-1,0.9977,0.9977,0.8001
+ytdl-buggy-1,0.9977,0.9977,0.9977
+C:\Users\Yoga Slim\Desktop\ytdl-buggy-1,0.0,0.0,0.0
+ytdl-buggy-1,0.0,0.0,0.0
+ytdl-buggy-1,0.0,0.0,0.0
+middle_1,0.0,0.9975,0.9996
+middle_1,0.9992,0.9975,0.9996
+cookiecutter_1,0.9995,0.9981,0.9997
+cookiecutter_1,0.0,0.0,0.0
+expression_1,0.9214,0.9677,0.9767
+expression_1,0.9677,"TestEvaluate.test_eval_div_error, test_eval_div_error, TestExpr.test_div_error, test_div_error, TestEvaluate.test_eval_div_error, test_eval_div_error, TestExpr.test_div_error, test_div_error, TestsFailing.test_diversity_1, TestsFailing.test_diversity_2",0.9677,"TestEvaluate.test_eval_div_error, test_eval_div_error, TestEvaluate.test_eval_div_error, test_eval_div_error, TestExpr.test_div_error, test_div_error, TestExpr.test_div_error, test_div_error, TestEvaluate.test_eval_constant, TestEvaluate.test_eval_div",0.9767,"TestEvaluate.test_eval_div_error, test_eval_div_error, TestExpr.test_div_error, test_div_error, TestsFailing.test_diversity_1, TestsFailing.test_diversity_2, TestsFailing.test_diversity_3, TestsFailing.test_diversity_4, TestsFailing.test_diversity_5, TestsFailing.test_diversity_6"
+expression_1,0.9677,"TestEvaluate.test_eval_div_error, test_eval_div_error, TestExpr.test_div_error, test_div_error, TestEvaluate.test_eval_div_error, test_eval_div_error, TestExpr.test_div_error, test_div_error, TestsFailing.test_diversity_1, TestsFailing.test_diversity_2",0.9677,"TestEvaluate.test_eval_div_error, test_eval_div_error, TestEvaluate.test_eval_div_error, test_eval_div_error, TestExpr.test_div_error, test_div_error, TestExpr.test_div_error, test_div_error, TestEvaluate.test_eval_constant, TestEvaluate.test_eval_div",0.9767,"TestEvaluate.test_eval_div_error, test_eval_div_error, TestExpr.test_div_error, test_div_error, TestsFailing.test_diversity_1, TestsFailing.test_diversity_2, TestsFailing.test_diversity_3, TestsFailing.test_diversity_4, TestsFailing.test_diversity_5, TestsFailing.test_diversity_6"
